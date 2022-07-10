@@ -1,0 +1,12 @@
+Važni pojmovi:
+    Subject
+    Observer
+- Subjekt može imati neograničeni broj observera koje se mogu obavjesiti
+- Observer klasa mora implementirati update() metodu koju će pozivati subjekt kako bi obavijestio o promjeni stanja
+
+
+Subjekt mora implementirati četiri primarne metode:
+  attach()
+  detach()
+  notify()
+  setState()
