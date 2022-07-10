@@ -1,0 +1,22 @@
+Vježbe10;
+
++ Id: int
+# Naziv: string
+# Cijena: float
+- Volumen: float
+
+
+
++ getNaziv() : string
+# setNaziv() : bool
++ getCijena() : float
+# setCijena() : bool
+- getVolumen() : int
+- setVolumen() : bool
+
+
+Kontrola pristupa / Access control – Visibility
+
++ public
+# protected
+- private
