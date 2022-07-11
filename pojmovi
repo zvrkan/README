@@ -1,0 +1,13 @@
+- extends is for extending a class.
+- implements is for implementing an interface
+
+__construct() - https://www.w3schools.com/php/func_simplexml__construct.asp
+
+- static - https://www.w3schools.com/php/php_oop_static_methods.asp
+
+- abstract - when the parent class has a named method, but need its child class(es) to fill out the tasks - https://www.w3schools.com/php/php_oop_classes_abstract.asp
+
+
+    public - the property or method can be accessed from everywhere. This is default
+    protected - the property or method can be accessed within the class and by classes derived from that class
+    private - the property or method can ONLY be accessed within the class
