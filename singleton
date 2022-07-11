@@ -1,0 +1,7 @@
+Design pattern
+
+Koristi se kako bi ograničio instanciranje klase na samo jedan objekt
+
+Korisno kada je potrebno imati samo jedan objekt na razini cijelog sustava
+
+Singleton je dizajniran tako da osigura da postoji samo jedna instanca klase na razini sustava te da postoji globalna točka za pristup tom objektu
